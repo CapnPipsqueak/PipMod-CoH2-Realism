@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BurnInfoRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism.xml</FileName>
+			<FileHash>80bd21a83dea180648da85f26abbc355</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp.xml</FileName>
+			<FileHash>2c845d66df0617bca4b8bf4bc8396dcf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.xml</FileName>
+			<FileHash>63eb73dc01953fe78a65d35cd92aea5d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon\soviet\small_arms\rifle\bolt\mosin_rookie_mp.xml</FileName>
+			<FileHash>915bafe5c509b2cfc9bda3283adecd46</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\locale\english\english.ucs</FileName>
+			<FileHash>3d29bd311de30a5eff9bf2f411abd51d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\info\e994989c4d1441718c469b0448d18ca1.info</FileName>
+			<FileHash>74f8711256cef608851651587020bf61</FileHash>
+		</BurnInfo>
+	</BurnInfo>
+	<BurnInfoExtendedInfo />
+</BurnInfoRoot>
