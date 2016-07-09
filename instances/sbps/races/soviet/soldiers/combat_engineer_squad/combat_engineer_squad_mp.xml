@@ -1,4 +1,4 @@
-<instance description="Soviet Conscript Squad&#xD;&#xA;Tier I Rifle Infantry&#xD;&#xA;Rookie&#xD;&#xA;275 MP&#xD;&#xA;11 S" template="sbps">
+<instance description="" template="sbps">
 	<list name="extensions">
 		<template_reference name="squadexts" value="sbpextensions\squad_blueprint_ext">
 		</template_reference>
@@ -7,54 +7,54 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="1" mod="e994989c4d1441718c469b0448d18ca1" />
+						<locstring name="extra_text" value="5" mod="e994989c4d1441718c469b0448d18ca1" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="3" mod="e994989c4d1441718c469b0448d18ca1" />
-						<string name="hotkey_name" value="C" />
-						<icon name="icon_name" value="Icons_units_unit_soviet_conscript_03" />
+						<locstring name="help_text" value="6" mod="e994989c4d1441718c469b0448d18ca1" />
+						<string name="hotkey_name" value="E" />
+						<icon name="icon_name" value="Icons_units_unit_soviet_engineer" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11006679" />
-						<string name="selection_group" value="rifleman" />
+						<locstring name="screen_name" value="7" mod="e994989c4d1441718c469b0448d18ca1" />
+						<string name="selection_group" value="engineer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="gs" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
 						<group name="speaker_specific">
-							<string name="code_1" value="cn" />
+							<string name="code_1" value="en" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
 						<group name="speech_code_2">
-							<string name="code_1" value="cn" />
+							<string name="code_1" value="en" />
 							<string name="code_2" value="In" />
 							<string name="code_3" value="" />
 						</group>
 						<group name="speech_code_3">
-							<string name="code_1" value="cn2" />
+							<string name="code_1" value="eng" />
 							<string name="code_2" value="Inf" />
 							<string name="code_3" value="" />
 						</group>
 						<bool name="tacmap_team_only" value="False" />
-						<int name="ui_priority" value="49" />
+						<int name="ui_priority" value="46" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_unit_soviet_conscript_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_unit_soviet_combat_engineer_w_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_unit_soviet_conscript_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_unit_soviet_combat_engineer_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="2" mod="e994989c4d1441718c469b0448d18ca1" />
-						<locstring name="screen_name_short" value="11045776" />
+						<locstring name="brief_text" value="4" mod="e994989c4d1441718c469b0448d18ca1" />
+						<locstring name="screen_name_short" value="8" mod="e994989c4d1441718c469b0448d18ca1" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
-						<icon name="symbol_icon_name" value="Icons_symbols_unit_soviet_conscript_03_symbol" />
+						<icon name="symbol_icon_name" value="Icons_symbols_unit_soviet_engineer_symbol" />
 						<bool name="speaker_highest_priority" value="False" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />
@@ -128,16 +128,16 @@
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="07_soldiers">
-					<float name="units_in_core" value="7" />
-					<float name="units_in_left_flank" value="0" />
-					<float name="units_in_right_flank" value="0" />
-					<float name="units_in_scout" value="0" />
+					<float name="units_in_core" value="2" />
+					<float name="units_in_left_flank" value="2" />
+					<float name="units_in_right_flank" value="2" />
+					<float name="units_in_scout" value="1" />
 				</group>
 				<group name="08_soldiers">
-					<float name="units_in_core" value="8" />
-					<float name="units_in_left_flank" value="0" />
-					<float name="units_in_right_flank" value="0" />
-					<float name="units_in_scout" value="0" />
+					<float name="units_in_core" value="2" />
+					<float name="units_in_left_flank" value="2" />
+					<float name="units_in_right_flank" value="2" />
+					<float name="units_in_scout" value="2" />
 				</group>
 				<group name="09_soldiers">
 					<float name="units_in_core" value="3" />
@@ -152,17 +152,17 @@
 					<float name="units_in_scout" value="2" />
 				</group>
 			</group>
-			<bool name="support_weapons_to_flanks" value="False" />
+			<bool name="support_weapons_to_flanks" value="True" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_item_slot_ext">
 			<bool name="can_pick_up" value="True" />
-			<float name="num_slots" value="3" />
+			<float name="num_slots" value="2" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="11" />
-					<instance_reference name="type" value="ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp" />
+					<float name="num" value="5" />
+					<instance_reference name="type" value="ebps\races\soviet\soldiers\combat_engineer\combat_engineer_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -171,25 +171,6 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_requirement_ext">
 			<list name="requirement_table">
-				<template_reference name="required" value="requirements\required_all_in_list">
-					<enum name="reason" value="usage_and_display" />
-					<locstring name="ui_name" value="0" />
-					<list name="requirements">
-						<template_reference name="requirement" value="requirements\required_race">
-							<enum name="reason" value="usage_and_display" />
-							<locstring name="ui_name" value="0" />
-							<instance_reference name="race" value="racebps\soviet" />
-						</template_reference>
-					</list>
-				</template_reference>
-				<template_reference name="required" value="requirements\required_structure">
-					<enum name="reason" value="usage" />
-					<locstring name="ui_name" value="0" />
-					<instance_reference name="structure_name" value="ebps\races\soviet\buildings\base_building\hq\hq_mp" />
-					<int name="required_structure_count" value="1" />
-					<bool name="check_team" value="False" />
-					<bool name="require_construction_complete" value="True" />
-				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_apply_ext">
@@ -199,6 +180,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
+				<instance_reference name="upgrade" value="upgrade\soviet\items\engineer_minesweeper_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -206,7 +188,7 @@
 			<float name="reaction_delay_seconds" value="25" />
 			<float name="reveal_self_attacker_time" value="0" />
 			<bool name="reveal_self_attacker_time_use" value="False" />
-			<string name="squad_ai_file" value="conscript-infantry-plan" />
+			<string name="squad_ai_file" value="Engineer-attack-plan" />
 			<string name="squad_ai_pinned_file" value="" />
 			<string name="squad_ai_reaction_file" value="reaction-plan" />
 			<string name="squad_ai_retaliation_file" value="" />
@@ -238,7 +220,7 @@
 						<float name="recover_multiplier" value="0.75" />
 					</group>
 					<group name="tp_smoke">
-						<float name="recover_multiplier" value="1.25" />
+						<float name="recover_multiplier" value="1" />
 					</group>
 					<group name="tp_trench">
 						<float name="recover_multiplier" value="1" />
@@ -272,7 +254,7 @@
 				<float name="noncombat_recover_multiplier" value="50" />
 				<float name="pin_down_activate_threshold" value="0.66" />
 				<float name="pin_down_recover_threshold" value="0.5" />
-				<float name="recover_rate" value="0.088" />
+				<float name="recover_rate" value="0.04" />
 				<float name="suppressed_activate_threshold" value="0.33" />
 				<float name="suppressed_recover_threshold" value="0.25" />
 				<list name="pin_down_activate_actions">
@@ -308,7 +290,33 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073741840" />
+						<uniqueid name="id" value="1073741866" />
+					</template_reference>
+					<template_reference name="action" value="action\delay">
+						<float name="delay" value="10" />
+						<float name="delay_min" value="0" />
+						<bool name="progress_bar" value="False" />
+						<bool name="randomize" value="False" />
+						<list name="delayed_actions">
+							<template_reference name="action" value="action\apply_modifiers_action">
+								<float name="duration" value="0" />
+								<bool name="permanent" value="False" />
+								<list name="modifiers">
+									<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
+										<enum name="application_type" value="apply_to_entity" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="" />
+										<enum name="usage_type" value="multiplication" />
+										<float name="value" value="4" />
+										<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073741867" />
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073741868" />
+						<bool name="can_prevent_refund" value="True" />
 					</template_reference>
 					<template_reference name="action" value="action\animator_set_state">
 						<bool name="apply_to_leader_only" value="False" />
@@ -316,7 +324,7 @@
 						<bool name="retrigger" value="False" />
 						<string name="state_machine_name" value="suppression" />
 						<string name="undo_action_state_name" value="normal" />
-						<uniqueid name="id" value="1073741843" />
+						<uniqueid name="id" value="1073741869" />
 					</template_reference>
 				</list>
 				<list name="suppressed_activate_actions">
@@ -339,7 +347,7 @@
 								<string name="modifier_id" value="" />
 								<string name="target_type_name" value="hardpoint_01" />
 								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="2" />
+								<float name="value" value="4" />
 								<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
 							</template_reference>
 							<template_reference name="modifier" value="modifiers\reload_weapon_modifier">
@@ -348,7 +356,7 @@
 								<string name="modifier_id" value="" />
 								<string name="target_type_name" value="hardpoint_01" />
 								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="2" />
+								<float name="value" value="4" />
 								<instance_reference name="tooltip" value="modifier_tooltip\reload_weapon_modifier" />
 							</template_reference>
 							<template_reference name="modifier" value="modifiers\accuracy_weapon_modifier">
@@ -357,20 +365,11 @@
 								<string name="modifier_id" value="" />
 								<string name="target_type_name" value="hardpoint_01" />
 								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="0.5" />
+								<float name="value" value="0.25" />
 								<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 							</template_reference>
-							<template_reference name="modifier" value="modifiers\ability_max_range_modifier">
-								<enum name="application_type" value="apply_to_ability" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<instance_reference name="target_type_name" value="abilities\soviet\modal_ability\grenades\conscript_molotov_cocktail_mp" />
-								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="0.77" />
-								<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
-							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073741844" />
+						<uniqueid name="id" value="1073741870" />
 					</template_reference>
 				</list>
 			</group>
@@ -385,11 +384,11 @@
 					<float name="length" value="0" />
 					<group name="origin">
 						<float name="x" value="0" />
-						<float name="y" value="1.5" />
+						<float name="y" value="0.5" />
 						<float name="z" value="0" />
 					</group>
 					<enum name="type" value="default" />
-					<instance_reference name="weapon" value="weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_rifle_conscript_mp" />
+					<instance_reference name="weapon" value="" />
 				</group>
 				<instance_reference name="remove_weapon" value="" />
 			</group>
@@ -407,7 +406,7 @@
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_attention_ext">
-			<float name="search_radius" value="30" />
+			<float name="search_radius" value="35" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_holdable_ext">
 			<list name="modifier_table">
@@ -424,15 +423,27 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\merge_ability_mp" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\repair_ability\soviet_repair_ability_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
-		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
-			<float name="capture_distance" value="4" />
-			<float name="capture_rate_multiplier" value="1" />
-			<float name="revert_rate_multiplier" value="1" />
+		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
+			<group name="time_cost_percentage">
+				<float name="cost_percentage" value="0.5" />
+				<float name="time_percentage" value="0.75" />
+			</group>
+			<group name="ui_info">
+				<locstring name="extra_text" value="0" />
+				<locstring name="help_text" value="11042643" />
+				<string name="hotkey_name" value="Reinforce" />
+				<icon name="icon_name" value="Icons_odds_reinforce" />
+				<string name="overlay_name" value="" />
+				<bool name="reveal_for_decryption" value="False" />
+				<locstring name="screen_name" value="11007514" />
+			</group>
+			<list name="paradrop_requirements">
+			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_retreat_ext">
 			<group name="retreat_building_types">
@@ -445,7 +456,7 @@
 			<list name="actions">
 				<template_reference name="action" value="action\suppression">
 					<float name="suppression" value="0" />
-					<uniqueid name="id" value="1073741853" />
+					<uniqueid name="id" value="1073741877" />
 					<float name="supressionrecovertime" value="0" />
 				</template_reference>
 			</list>
@@ -483,7 +494,7 @@
 					<string name="modifier_id" value="" />
 					<string name="target_type_name" value="" />
 					<enum name="usage_type" value="multiplication" />
-					<float name="value" value="0.5" />
+					<float name="value" value="0.4" />
 					<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 				</template_reference>
 				<template_reference name="modifier" value="modifiers\capture_enable_squad_modifier">
@@ -516,53 +527,153 @@
 			</list>
 			<bool name="withdraw_only" value="False" />
 		</template_reference>
-		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
-			<group name="time_cost_percentage">
-				<float name="cost_percentage" value="0.5" />
-				<float name="time_percentage" value="0.75" />
+		<template_reference name="squadexts" value="sbpextensions\squad_mine_defuser_ext">
+			<float name="on_idle_search_distance" value="20" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_can_defuse_charges_ext">
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_plant_demolition_ext">
+			<group name="cost">
+				<float name="action" value="0" />
+				<float name="command" value="0" />
+				<float name="fuel" value="0" />
+				<float name="manpower" value="0" />
+				<float name="munition" value="90" />
+				<float name="popcap" value="0" />
 			</group>
+			<instance_reference name="demo_entity" value="ebps\props\demo_charge" />
+			<bool name="parallel_placement" value="True" />
+			<bool name="place_anywhere" value="True" />
+			<float name="recharge_time" value="0" />
 			<group name="ui_info">
-				<locstring name="extra_text" value="0" />
-				<locstring name="help_text" value="11042647" />
-				<string name="hotkey_name" value="Reinforce" />
-				<icon name="icon_name" value="Icons_odds_reinforce" />
+				<locstring name="extra_text" value="11042785" />
+				<locstring name="help_text" value="11007439" />
+				<string name="hotkey_name" value="D" />
+				<icon name="icon_name" value="Icons_abilities_ability_soviet_demo_charge" />
 				<string name="overlay_name" value="" />
 				<bool name="reveal_for_decryption" value="False" />
-				<locstring name="screen_name" value="11007514" />
+				<locstring name="screen_name" value="11006709" />
 			</group>
-			<list name="paradrop_requirements">
+			<list name="requirements">
+				<template_reference name="required" value="requirements\required_not">
+					<enum name="reason" value="usage_and_display" />
+					<locstring name="ui_name" value="0" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_in_state">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<bool name="garrisoned" value="True" />
+							<bool name="healed" value="False" />
+							<float name="in_combat_since" value="-1" />
+							<bool name="injured" value="False" />
+							<bool name="leader" value="False" />
+							<bool name="not_moving" value="False" />
+							<bool name="not_retreating" value="False" />
+							<bool name="pinned" value="False" />
+							<bool name="suppressed" value="False" />
+							<bool name="camouflaged" value="False" />
+						</template_reference>
+					</list>
+				</template_reference>
 			</list>
+			<int name="ui_position" value="33" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
+			<float name="capture_distance" value="4" />
+			<float name="capture_rate_multiplier" value="1" />
+			<float name="revert_rate_multiplier" value="1" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_vault_ext">
 			<list name="timing_list">
 				<group name="group">
-					<int name="vaulter_count" value="2" />
+					<int name="vaulter_count" value="1" />
 					<float name="delay_second" value="0" />
 				</group>
 				<group name="group">
-					<int name="vaulter_count" value="3" />
-					<float name="delay_second" value="0.5" />
+					<int name="vaulter_count" value="2" />
+					<float name="delay_second" value="0.25" />
 				</group>
 				<group name="group">
-					<int name="vaulter_count" value="3" />
-					<float name="delay_second" value="1.25" />
-				</group>
-				<group name="group">
-					<int name="vaulter_count" value="3" />
-					<float name="delay_second" value="2" />
+					<int name="vaulter_count" value="2" />
+					<float name="delay_second" value="0.75" />
 				</group>
 			</list>
 			<instance_reference name="vaulting_formation" value="squad_formations\vaulting" />
 		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
+			<float name="personnel_pop" value="5" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_engineer_ext">
+			<float name="construction_rate_multiplier" value="1" />
+			<list name="in_construction_actions">
+				<template_reference name="action" value="action\apply_modifiers_action">
+					<float name="duration" value="0" />
+					<bool name="permanent" value="False" />
+					<list name="modifiers">
+						<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
+							<enum name="application_type" value="apply_to_entity" />
+							<bool name="exclusive" value="False" />
+							<string name="modifier_id" value="" />
+							<string name="target_type_name" value="" />
+							<enum name="usage_type" value="multiplication" />
+							<float name="value" value="2" />
+							<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073741878" />
+				</template_reference>
+			</list>
+			<list name="construction_groups">
+				<group name="construction_group">
+					<instance_reference name="construction_menu" value="construction_menu\basic" />
+					<list name="construction_items">
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
+							<int name="ui_position" value="14" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\soviet_mine_mp" />
+							<int name="ui_position" value="21" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
+							<int name="ui_position" value="12" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\tanktrap" />
+							<int name="ui_position" value="13" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\sand_bag_soviet_mp" />
+							<int name="ui_position" value="11" />
+						</group>
+					</list>
+					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />
+				</group>
+				<group name="construction_group">
+					<instance_reference name="construction_menu" value="construction_menu\advanced" />
+					<list name="construction_items">
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\observation_post\observation_post_fuel_mp" />
+							<int name="ui_position" value="22" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\observation_post\observation_post_munition_mp" />
+							<int name="ui_position" value="21" />
+						</group>
+					</list>
+					<enum name="construction_type" value="tp_construction_soviet_engineer" />
+				</group>
+			</list>
+		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_type_ext">
 			<list name="squad_type_list">
-				<enum name="squad_type" value="conscripts" />
+				<enum name="squad_type" value="combat_engineer" />
 				<enum name="squad_type" value="infantry" />
-				<enum name="squad_type" value="tank_detection" />
 				<enum name="squad_type" value="rapid_conscription" />
 				<enum name="squad_type" value="mobile_infantry" />
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="108" />
+	<uniqueid name="pbgid" value="104" />
 </instance>

@@ -3,7 +3,9 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\combat_engineer\combat_engineer_mp.rgd
 	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.rgd
 	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.rgd
 	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\rifle\bolt\mosin_rookie_mp.rgd
 TOCEnd

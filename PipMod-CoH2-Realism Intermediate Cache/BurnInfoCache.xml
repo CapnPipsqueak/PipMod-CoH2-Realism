@@ -6,12 +6,20 @@
 			<FileHash>80bd21a83dea180648da85f26abbc355</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\ebps\races\soviet\soldiers\combat_engineer\combat_engineer_mp.xml</FileName>
+			<FileHash>7dc32f7e80b4d4646b5b8cc98f67fae5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp.xml</FileName>
-			<FileHash>2c845d66df0617bca4b8bf4bc8396dcf</FileHash>
+			<FileHash>1f1d00545860a42321e67959171f6552</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.xml</FileName>
+			<FileHash>19099e7d4cefc490cb71baa9216c0e17</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.xml</FileName>
-			<FileHash>63eb73dc01953fe78a65d35cd92aea5d</FileHash>
+			<FileHash>ac011badc872526b5b093783383e9cde</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon\soviet\small_arms\rifle\bolt\mosin_rookie_mp.xml</FileName>
@@ -19,7 +27,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\locale\english\english.ucs</FileName>
-			<FileHash>3d29bd311de30a5eff9bf2f411abd51d</FileHash>
+			<FileHash>421267f09f058c9c0b560ec97328c247</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\info\e994989c4d1441718c469b0448d18ca1.info</FileName>
