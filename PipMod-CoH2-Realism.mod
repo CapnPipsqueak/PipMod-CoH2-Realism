@@ -30,7 +30,7 @@
 					<Name>english</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Info</Alias>
@@ -42,7 +42,24 @@
 					<Name>PipMod Realism</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
+		</d2p1:anyType>
+		<d2p1:anyType i:type="TableOfContents">
+			<Alias>Data</Alias>
+			<Children>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnFolder">
+							<BurnSettings />
+							<Hint>Default</Hint>
+							<RelativeName>data\art</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>art</Name>
+				</d2p1:anyType>
+			</Children>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 	</Children>
 	<Guid>e994989c-4d14-4171-8c46-9b0448d18ca1</Guid>

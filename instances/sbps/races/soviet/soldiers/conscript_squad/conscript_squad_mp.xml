@@ -156,13 +156,17 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_item_slot_ext">
 			<bool name="can_pick_up" value="True" />
-			<float name="num_slots" value="3" />
+			<float name="num_slots" value="7" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="11" />
+					<float name="num" value="10" />
 					<instance_reference name="type" value="ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp" />
+				</group>
+				<group name="loadout_data">
+					<float name="num" value="1" />
+					<instance_reference name="type" value="ebps\races\soviet\soldiers\conscript_soldier\conscript_sergeant_mp" mod="e994989c4d1441718c469b0448d18ca1" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -199,6 +203,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
+				<instance_reference name="upgrade" value="upgrade\soviet\items\dp-28_replacement_mp" mod="e994989c4d1441718c469b0448d18ca1" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\ppsh-41_conscript_package_mp" mod="e994989c4d1441718c469b0448d18ca1" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -272,7 +278,7 @@
 				<float name="noncombat_recover_multiplier" value="50" />
 				<float name="pin_down_activate_threshold" value="0.66" />
 				<float name="pin_down_recover_threshold" value="0.5" />
-				<float name="recover_rate" value="0.088" />
+				<float name="recover_rate" value="0.008" />
 				<float name="suppressed_activate_threshold" value="0.33" />
 				<float name="suppressed_recover_threshold" value="0.25" />
 				<list name="pin_down_activate_actions">
@@ -339,7 +345,7 @@
 								<string name="modifier_id" value="" />
 								<string name="target_type_name" value="hardpoint_01" />
 								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="2" />
+								<float name="value" value="1.5" />
 								<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
 							</template_reference>
 							<template_reference name="modifier" value="modifiers\reload_weapon_modifier">
@@ -348,7 +354,7 @@
 								<string name="modifier_id" value="" />
 								<string name="target_type_name" value="hardpoint_01" />
 								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="2" />
+								<float name="value" value="1.5" />
 								<instance_reference name="tooltip" value="modifier_tooltip\reload_weapon_modifier" />
 							</template_reference>
 							<template_reference name="modifier" value="modifiers\accuracy_weapon_modifier">
@@ -402,12 +408,17 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
 			<list name="actions">
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\soviet\small_arms\dp-27_mp" mod="e994989c4d1441718c469b0448d18ca1" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073741953" />
+				</template_reference>
 			</list>
 			<list name="squad_entity_actions">
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_attention_ext">
-			<float name="search_radius" value="30" />
+			<float name="search_radius" value="35" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_holdable_ext">
 			<list name="modifier_table">

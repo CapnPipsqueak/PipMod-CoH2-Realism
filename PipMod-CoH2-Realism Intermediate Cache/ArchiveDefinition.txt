@@ -4,10 +4,35 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
 	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\combat_engineer\combat_engineer_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\conscript_soldier\conscript_sergeant_mp.rgd
 	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\diamond.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\file_staggered_left.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\file_staggered_right.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\file_straight.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\line_left.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\line_right.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\vee_left.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\vee_right.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\wedge_left.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\element\wedge_right.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\squad\soviet_engineer_cover.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\squad\soviet_engineer_default.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\formations\squad\soviet_engineer_negative.rgd
 	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.rgd
 	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.rgd
-	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\rifle\bolt\mosin_rookie_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\soviet\small_arms\dp-27_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\soviet\small_arms\ppsh-41_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\squad_formations\soviet_enginner_cover.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\squad_formations\soviet_enginner_default.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\squad_formations\soviet_enginner_negative.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\dp-28_replacement_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\ppsh-41_conscript_package_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\machinegun\light\dp-27_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\pistol\machine\ppsh-41_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\pistol\revolver\nagant_m1895_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\rifle\bolt\mosin_nagant_m91-30_mp.rgd
+	C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\attrib\attrib\weapon_building_damage\aoe_profile_no_change.rgd
 TOCEnd
 TOCStart name="locale" alias="locale" path="" relativeroot="locale"
 	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"

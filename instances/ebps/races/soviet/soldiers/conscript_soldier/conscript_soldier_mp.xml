@@ -42,7 +42,7 @@
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="2" />
+				<float name="time_seconds" value="2.18" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\health_ext">
@@ -499,7 +499,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\small_arms\rifle\bolt\mosin_rookie_mp" mod="e994989c4d1441718c469b0448d18ca1" />
+							<instance_reference name="weapon" value="weapon\soviet\small_arms\rifle\bolt\mosin_nagant_m91-30_mp" mod="e994989c4d1441718c469b0448d18ca1" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

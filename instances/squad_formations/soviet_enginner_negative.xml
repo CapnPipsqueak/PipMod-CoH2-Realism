@@ -1,0 +1,12 @@
+<instance description="" template="squad_formations">
+	<group name="squad_formation_bag">
+		<instance_reference name="element_core_formation" value="formations\element\file_staggered_right" mod="e994989c4d1441718c469b0448d18ca1" />
+		<instance_reference name="element_left_flank_formation" value="formations\element\file_straight" mod="e994989c4d1441718c469b0448d18ca1" />
+		<instance_reference name="element_right_flank_formation" value="formations\element\file_straight" mod="e994989c4d1441718c469b0448d18ca1" />
+		<instance_reference name="element_scout_formation" value="formations\element\vee_right" mod="e994989c4d1441718c469b0448d18ca1" />
+		<float name="follower_drift_cap" value="0" />
+		<float name="follower_drift_rate" value="0" />
+		<instance_reference name="squad_formation" value="formations\squad\soviet_engineer_negative" mod="e994989c4d1441718c469b0448d18ca1" />
+	</group>
+	<uniqueid name="pbgid" value="1073741824" />
+</instance>

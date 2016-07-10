@@ -7,27 +7,127 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\ebps\races\soviet\soldiers\combat_engineer\combat_engineer_mp.xml</FileName>
-			<FileHash>7dc32f7e80b4d4646b5b8cc98f67fae5</FileHash>
+			<FileHash>41926133e4ef0870cf15f826c0b65c76</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\ebps\races\soviet\soldiers\conscript_soldier\conscript_sergeant_mp.xml</FileName>
+			<FileHash>5e0d612be6cd55ddf2959decbb1eb099</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp.xml</FileName>
-			<FileHash>1f1d00545860a42321e67959171f6552</FileHash>
+			<FileHash>857595f3df3718b03637816e7c77d24e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\diamond.xml</FileName>
+			<FileHash>430f8eaa1a33cb531d3816c05100c81f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\file_staggered_left.xml</FileName>
+			<FileHash>89e86b4bfae756da5b71a5f9bf31f879</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\file_staggered_right.xml</FileName>
+			<FileHash>d6dcb7e9c5cc8fb1155af2cda48879f1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\file_straight.xml</FileName>
+			<FileHash>0438f3a95c231e205652b1b044b6f5bb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\line_left.xml</FileName>
+			<FileHash>453c467691444da31e280b4ee77cae0d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\line_right.xml</FileName>
+			<FileHash>118a335c6c5c1ef99291ce125c68aea6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\vee_left.xml</FileName>
+			<FileHash>0f943b48cdbc43bc35f67e9b48378f16</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\vee_right.xml</FileName>
+			<FileHash>bd4cbe2eabf02d802aa486f33f6a237d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\wedge_left.xml</FileName>
+			<FileHash>ce3813a72a9b1314ca8f8e248ad44eb0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\element\wedge_right.xml</FileName>
+			<FileHash>ed7fa1fccb2c1c1c1a85cbd5f2fccfc1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\squad\soviet_engineer_cover.xml</FileName>
+			<FileHash>d0ad04fba892df94d37b9bdf6e772583</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\squad\soviet_engineer_default.xml</FileName>
+			<FileHash>a399255803b077d1809dcaff3add31da</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\formations\squad\soviet_engineer_negative.xml</FileName>
+			<FileHash>d5a269c3690027ce4f5d070a9108821d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.xml</FileName>
-			<FileHash>19099e7d4cefc490cb71baa9216c0e17</FileHash>
+			<FileHash>175071303122bf76ce14f409da8e4e34</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.xml</FileName>
-			<FileHash>ac011badc872526b5b093783383e9cde</FileHash>
+			<FileHash>9f63e6b6950f360b1f6c0e7a5d9f7462</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon\soviet\small_arms\rifle\bolt\mosin_rookie_mp.xml</FileName>
-			<FileHash>915bafe5c509b2cfc9bda3283adecd46</FileHash>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\slot_item\soviet\small_arms\dp-27_mp.xml</FileName>
+			<FileHash>d52b3cdf5eb72f03ba6bfe5055f375b3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\slot_item\soviet\small_arms\ppsh-41_mp.xml</FileName>
+			<FileHash>dab25bda7d9773fbaabebc2d4646bffd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\squad_formations\soviet_enginner_cover.xml</FileName>
+			<FileHash>b0d47bde79b5952ffb7fac8a43486cdb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\squad_formations\soviet_enginner_default.xml</FileName>
+			<FileHash>25d0262aa0dbf94d4399f5390798356a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\squad_formations\soviet_enginner_negative.xml</FileName>
+			<FileHash>7fe66d8516556cef5541e564e4a37090</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\upgrade\soviet\items\dp-28_replacement_mp.xml</FileName>
+			<FileHash>64be01e541ace7848391c17d769f2b17</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\upgrade\soviet\items\ppsh-41_conscript_package_mp.xml</FileName>
+			<FileHash>825577db781a7f7e0028099d178cff75</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon\soviet\small_arms\machinegun\light\dp-27_mp.xml</FileName>
+			<FileHash>0c5c5271caba565022ce36bbb9b0500d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon\soviet\small_arms\pistol\machine\ppsh-41_mp.xml</FileName>
+			<FileHash>ed922247735006f16baafae5cda5170f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon\soviet\small_arms\pistol\revolver\nagant_m1895_mp.xml</FileName>
+			<FileHash>90a2da40d555ebb7ac08ea255a458e2a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon\soviet\small_arms\rifle\bolt\mosin_nagant_m91-30_mp.xml</FileName>
+			<FileHash>12d27954fa95c05f5a9f817f5c5db50a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\instances\weapon_building_damage\aoe_profile_no_change.xml</FileName>
+			<FileHash>3fa3a38c9167f916b452b09ed4e51219</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\locale\english\english.ucs</FileName>
-			<FileHash>421267f09f058c9c0b560ec97328c247</FileHash>
+			<FileHash>6020f0aa86fb5c5c6400f75f425a49b9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\Christian\Documents\GitHub\PipMod-CoH2-Realism\PipMod-CoH2-Realism Intermediate Cache\Intermediate Files\info\e994989c4d1441718c469b0448d18ca1.info</FileName>
